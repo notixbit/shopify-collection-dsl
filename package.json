@@ -1,0 +1,50 @@
+{
+  "name": "@notixbit/shopify-collection-dsl",
+  "version": "1.0.0",
+  "description": "Create Custom- and SmartCollections for Shopify programmatically.",
+  "keywords": [
+    "shopify",
+    "api",
+    "dsl",
+    "collections",
+    "collection",
+    "customcollection",
+    "smartcollection",
+    "micro",
+    "microservice",
+    "es6",
+    "promise",
+    "node"
+  ],
+  "author": {
+    "name": "Notixbit Creative",
+    "email": "info@notixbit.net",
+    "url": "https://github.com/notixbit"
+  },
+  "maintainers": [
+    {
+      "name": "Steven Agyekum",
+      "email": "agyekum@posteo.de",
+      "url": "https://github.com/Burnett01"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/notixbit/shopify-collection-dsl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/notixbit/shopify-collection-dsl/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "dependencies": {
+    "shopify-api-node": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^7.0.0"
+  }
+}
