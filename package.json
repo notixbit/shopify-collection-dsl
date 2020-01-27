@@ -1,7 +1,7 @@
 {
   "name": "@notixbit/shopify-collection-dsl",
   "version": "1.0.0",
-  "description": "Create Custom- and SmartCollections for Shopify programmatically.",
+  "description": "Create Custom- and Smart Collections for Shopify programmatically.",
   "keywords": [
     "shopify",
     "api",

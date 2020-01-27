@@ -3,7 +3,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Build Status](https://travis-ci.org/notixbit/shopify-collection-dsl.svg?branch=master)](https://travis-ci.org/notixbit/shopify-collection-dsl) [![npm version](https://badge.fury.io/js/%40notixbit%2Fshopify-collection-dsl.svg)](https://badge.fury.io/js/%40notixbit%2Fshopify-collection-dsl)
 
-Create Custom- and SmartCollections for Shopify programmatically.
+Create Custom- and Smart Collections for Shopify programmatically.
 
 This module is using [Shopify-api-node](https://github.com/MONEI/Shopify-api-node) for communicating with the Shopify API.
 
