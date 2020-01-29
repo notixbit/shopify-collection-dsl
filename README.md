@@ -31,7 +31,7 @@ Features:
   * [API Reference](#api-reference-1)
   * [Method Reference](#method-reference-1)
     * [Create a SmartCollection instance](#create-a-smartcollection-instance)
-    * [Set rule](#set-rule)
+    * [Add rule](#add-rule)
     * [Set disjunctive](#set-disjunctive)
 * [Setup / Install](#setup--install)
 * [Unit-Tests](#unit-tests)
