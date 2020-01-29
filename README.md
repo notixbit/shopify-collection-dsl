@@ -285,7 +285,7 @@ const collection = new SmartCollection('my-title')
 ```
 ---
 
-### Set rule
+### Add rule
 
 You can set multiple rules for your Smart Collection.<br>
 
@@ -294,6 +294,9 @@ You can set multiple rules for your Smart Collection.<br>
 | Argument | Description | Default |
 | ------ | ----------- | ----- |
 | rule | The rule | None |
+
+[See Documentation	
+](https://help.shopify.com/en/api/reference/products/smartcollection)<br>
 
 ```javascript
 collection.rule('title', 'contains', 'shoes')
@@ -306,6 +309,8 @@ collection
   .rule('title', 'contains', 'shoes')
   .rule('vendor', 'equals', 'Nike')
 ```
+
+
 
 
 ---
