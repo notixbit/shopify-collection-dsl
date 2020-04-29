@@ -9,7 +9,8 @@ This module is using [Shopify-api-node](https://github.com/MONEI/Shopify-api-nod
 
 Features:
   * [CustomCollection](https://help.shopify.com/en/api/reference/products/customcollection#create-2020-01) & [SmartCollection](https://help.shopify.com/en/api/reference/products/smartcollection#create-2020-01)
-  * ES6 Promises (async/await)
+  * ES8 (async/await)
+  * ES6 (Promises)
   * Debugging (dry-run)
   * Tests
 
