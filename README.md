@@ -236,7 +236,7 @@ To debug (dry-run) the payload for the request,<br>
 simply pass ``true`` to the ``.create`` method. 
 
 ```javascript
-const payload = collection.create(shopify, true)
+const payload = await collection.create(shopify, true)
 console.log(payload)
 ```
 
@@ -354,7 +354,7 @@ const shopify = new Shopify({
 // Now you can create Custom Collections...
 const collection = new CustomCollection('my-collection')
 
-collection
+await collection
   .body('Great products for young people')
   .sort('best-selling')
   .create(shopify)
@@ -363,7 +363,7 @@ collection
 
 const collection = new SmartCollection('my-collection')
 
-collection
+await collection
   .body('Great products for young people')
   .sort('best-selling')
   .rule('title', 'contains', 'shoes')
