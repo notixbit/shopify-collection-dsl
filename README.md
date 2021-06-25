@@ -1,7 +1,7 @@
 
 # shopify-collection-dsl
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Build Status](https://travis-ci.org/notixbit/shopify-collection-dsl.svg?branch=master)](https://travis-ci.org/notixbit/shopify-collection-dsl) [![npm version](https://badge.fury.io/js/%40notixbit%2Fshopify-collection-dsl.svg)](https://badge.fury.io/js/%40notixbit%2Fshopify-collection-dsl)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Build Status](https://travis-ci.com/notixbit/shopify-collection-dsl.svg?branch=master)](https://travis-ci.com/notixbit/shopify-collection-dsl) [![npm version](https://badge.fury.io/js/%40notixbit%2Fshopify-collection-dsl.svg)](https://badge.fury.io/js/%40notixbit%2Fshopify-collection-dsl)
 
 Create Custom- and Smart Collections for Shopify programmatically.
 
